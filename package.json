@@ -1,0 +1,19 @@
+{
+  "name": "pages-xvi",
+  "version": "1.0.0",
+  "description": "CRUD node app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DCapella/pages-xvi.git"
+  },
+  "author": "David Capella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DCapella/pages-xvi/issues"
+  },
+  "homepage": "https://github.com/DCapella/pages-xvi#readme"
+}
